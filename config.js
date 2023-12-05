@@ -7,11 +7,11 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['+1(831)304-5385', 'MKBX', true],
+  ['+18313045385', 'MKBX', true],
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //+1(831)-5385
+//global.pairingNumber = "" //+18315385
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -57,7 +57,7 @@ global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/fvck_mikibixx\
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT'
 global.thumb = fs.readFileSync('./Assets/Gurulogo.jpg')
-
+global.menuvid = 'https://telegra.ph/MKBX-Bot-12-05'
 
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
